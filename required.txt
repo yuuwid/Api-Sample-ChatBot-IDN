@@ -1,0 +1,9 @@
+chatbotAI
+chatbot 
+wikipedia 
+translators
+google-cloud-language
+
+
+fastapi
+"uvicorn[standard]"
